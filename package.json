@@ -1,0 +1,16 @@
+{
+  "name": "twitter-bot-rickroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "twitter-api-client": "^1.5.2"
+  }
+}
